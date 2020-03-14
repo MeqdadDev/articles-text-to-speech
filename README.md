@@ -1,6 +1,6 @@
 # Articles text to Speech
 
-![Repo Banner](images\Banner.png)
+![Repo Banner](images\banner.png)
 
 _By: Meqdad Darweesh_
 
