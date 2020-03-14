@@ -1,7 +1,9 @@
 # Articles text to Speech
 
-![Repo Banner](images/Banner.png)
+![Repo Banner](images\Banner.png)
+
 _By: Meqdad Darweesh_
+
 Convert the text of articles to speech using nltk, newspaper and gTTS with Python.
 
 ## What I did?
